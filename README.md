@@ -6,7 +6,7 @@
 | Student name | Student ID |
 | --- | --- |
 | Jan Henrik Magnus Jacobsen | 176136 |
-| #NAME# | #ID# |
+| Mads Wolff Strand | 153284 |
 | #NAME# | #ID# |
 
 ***
